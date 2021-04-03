@@ -1,13 +1,13 @@
 # esp8266-smartclock
 
-We started designing and building a small clock that is connected to your local Wifi and controls your home using cheap 433Mhz power outlets. The ESP8266 operates as a relay to communicate with your power outlets.
+I started designing and building a small clock that is connected to your local Wifi and controls your home using cheap 433Mhz power outlets. The ESP8266 operates as a relay to communicate with your power outlets.
 
 
 <img src="images/IMG_4446.JPG"/>
 <img src="images/screenshot1.png"/>
 
 ## Hardware
-The total costs are around 25€:
+The total costs are around Rs.2300:
 
 * NodeMCU board with the ESP8266 and an USB programmer
 * DHT11 or DHT22 (optional)
